@@ -21,9 +21,12 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter. #NH: Change this
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Open Source Governance
+- Corporate Open Sourcing
+- Information Systems
+- User Experience Design
+- Actionable Research
+- Product Management
 
 education:
   courses:
