@@ -33,7 +33,7 @@ education:
   - course: MSc in International Information Systems
     institution: University of Erlangen, Germany | Université du Québec à Montréal, Canada
     year: 2014–2016
-  - course: BSc in Business Management and Economics
+  - course: BSc in Economics and Business Management
     institution: Université Jean Moulin Lyon 3, France | Chadron State College, NE, USA
     year: 2010–2014
 
