@@ -18,27 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Senior Researcher and Postdoc"
+  company = "University of Erlangen–Nuremberg"
+  company_url = "https://oss.cs.fau.de/person/harutyunyan-nikolay/"
+  location = "Erlangen, Germany"
+  date_start = "2019-10-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Highlights:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Researched open source governance in companies
+  * Published on corporate open sourcing and governance, software supply chains, requirements engineering, and more
+  * Graduated from Software Campus 2.0 -- German IT excellence and leadership program with access to industry and executive education
+  * Supervised PhD and MA student projects.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Researcher and PhD Student"
+  company = "University of Erlangen–Nuremberg"
+  company_url = "https://oss.cs.fau.de/person/harutyunyan-nikolay/"
+  location = "Erlangen, Germany"
+  date_start = "2016-10-01"
+  date_end = "2019-09-30"
+  description = """
+  Highlights:
+  
+  * Researched corporate open source governance and user experience design
+  * Published 10+ journal and conference papers
+  * Presented at international academic and practitioner conferences in the US, Germany, Sweden, Spain, Portugal, Greece, and Czechia
+  * Acquired €400k+ in industry funding for open source governance research, €300k+ in research funding from DFG (German Research Foundation), and €100k in industry–academic collaboration funding from BMBF (German Ministry of Education and Research)
+  * Worked with 20+ industry partners from eight countries
+  * Taught graduate courses on software product management, open source software, team building, and research methods.
+  """
 
 +++
