@@ -85,7 +85,7 @@ I research open source governance, corporate open sourcing, user experience desi
 
 I am looking for new opportunities in Munich and Berlin after September 2020. I am interested in R&D and software product management. I love software that helps improve individual lives.
 
-As a PhD student in 2016--2019, I worked closely with industry and:
+Since 2016, as a PhD student and then postdoc, I have worked closely with industry and:
 
 <ul>
   <li>collaborated with 20+ companies, including Facebook, Intel, Software AG, BMW, and Zalando</li>
