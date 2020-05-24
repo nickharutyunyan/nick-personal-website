@@ -95,4 +95,4 @@ Since 2016, as a PhD student and then postdoc, I have worked closely with indust
 
 <!-- I am based in Nuremberg, Germany.  -->
 
-I am based in Nuremberg, Germany. In the last decade, I also lived in the US, Canada, France, and Armenia. I co-founded the 100+ member NGO <a href="https://enlightngo.org/language/en/about-us" target="_blank">Enlight</a>. I was also nominated for the International Children’s Peace Prize alongside Malala Yousafzai.
+I am based in Nuremberg, Germany. In the last decade, I also lived in the US, Canada, France, and Armenia. I co-founded the 100+ member nonprofit organization <a href="https://enlightngo.org/language/en/about-us" target="_blank">Enlight</a>. I was also nominated for the International Children’s Peace Prize alongside Malala Yousafzai.
