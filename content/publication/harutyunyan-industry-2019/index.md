@@ -1,5 +1,5 @@
 ---
-title: "Industry requirements for FLOSS governance tools to facilitate the use of open source software in commercial products"
+title: "Industry Requirements for FLOSS Governance Tools to Facilitate the Use of Open Source Software in Commercial Products"
 date: 2019-12-01
 publishDate: 2020-05-24T20:16:28.285809Z
 authors: ["Nikolay Harutyunyan", "Andreas Bauer", "Dirk Riehle"]

@@ -1,5 +1,5 @@
 ---
-title: "Getting started with open source governance and compliance in companies"
+title: "Getting Started with Open Source Governance and Compliance in Companies"
 date: 2019-08-01
 publishDate: 2020-05-24T20:16:28.288234Z
 authors: ["Nikolay Harutyunyan", "Dirk Riehle"]
