@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Dr. Ing. | Open Source Researcher | Project
+role: Dr. Ing. | Open Source Researcher | Project Manager
 
 # Organizations/Affiliations
 organizations:
