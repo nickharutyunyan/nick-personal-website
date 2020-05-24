@@ -1,5 +1,5 @@
 ---
-title: "Industry best practices for open source governance and component reuse"
+title: "Industry Best Practices for Open Source Governance and Component Reuse"
 date: 2019-07-01
 publishDate: 2020-05-24T20:16:28.293972Z
 authors: ["Nikolay Harutyunyan", "Dirk Riehle"]
