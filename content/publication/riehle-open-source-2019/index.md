@@ -1,5 +1,5 @@
 ---
-title: "Open-Source License Compliance in Software Supply Chains"
+title: "Open Source License Compliance in Software Supply Chains"
 date: 2019-01-01
 publishDate: 2020-05-24T20:16:28.297617Z
 authors: ["Dirk Riehle", "Nikolay Harutyunyan"]
