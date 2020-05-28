@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Software Campus 2.0"
   organization_url = "https://softwarecampus.de"
-  title = "Graduate of Development Program for Future IT Executives"
+  title = "Development Program for Future IT Executives"
   url = ""
   certificate_url = "https://softwarecampus.de/certificates/17570/" #TBA
   date_start = "2018-06-01"
