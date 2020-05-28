@@ -79,7 +79,7 @@ user_groups:
 
 <!-- Nice to e-meet you on my personal website. -->
 
-I research open source governance, corporate open sourcing, user experience design, and other topics in software engineering and information sysmtes.
+I research open source governance, corporate open sourcing, user experience design, and other topics in software engineering and information systems.
 
 <!-- Currently finishing up some projects at the University of Erlangen–Nuremberg. -->
 
@@ -89,7 +89,7 @@ Since 2016, as a PhD student and then postdoc, I have worked closely with indust
 
 <ul>
   <li>collaborated with 20+ companies, including Facebook, Intel, Software AG, BMW, and Zalando</li>
-  <li>aquired €800K+ in research and industry funding</li>
+  <li>acquired €800K+ in research and industry funding</li>
   <li>published 10+ <a href="https://scholar.google.com/citations?user=cmLxMlQAAAAJ" target="_blank">papers</a> alongside my 447-page <a href="http://nbn-resolving.de/urn:nbn:de:bvb:29-opus4-122727" target="_blank">dissertation</a>.</li>
 </ul>
 
