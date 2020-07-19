@@ -88,9 +88,10 @@ I am looking for new opportunities in Munich and Berlin after October 2020. I am
 Since 2016, as a PhD student and then postdoc, I have worked closely with industry and:
 
 <ul>
-  <li>collaborated with 20+ companies, including Facebook, Intel, Software AG, BMW, and Zalando</li>
+  <li>interviewed and collaborated with experts from 20+ companies, including Facebook, Intel, Software AG, BMW, and Zalando</li>
   <li>helped acquire €800K+ in research and industry funding</li>
   <li>published 10+ <a href="https://scholar.google.com/citations?user=cmLxMlQAAAAJ" target="_blank">papers</a> alongside my 447-page <a href="http://nbn-resolving.de/urn:nbn:de:bvb:29-opus4-122727" target="_blank">dissertation</a>.</li>
+  <li>developed a practical handbook of industry best practices for corporate open source governance and helped implement it at three large multinational companies.</li>
 </ul>
 
 <!-- I am based in Nuremberg, Germany.  -->
