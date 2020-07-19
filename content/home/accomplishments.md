@@ -23,10 +23,19 @@ date_format = "Jan 2006"
   organization_url = "https://softwarecampus.de"
   title = "Development Program for Future IT Executives"
   url = ""
-  certificate_url = "https://softwarecampus.de/certificates/17570/" #TBA
+  certificate_url = "https://softwarecampus.de/certificates/17570/"
   date_start = "2018-06-01"
   date_end = "2019-09-30"
-  description = "Executive education, industry partner vists, industry-academia partnership"
+  description = "€100K budget, hiring research staff, project management, executive education, industry-academia partnership"
+
+[[item]]
+  organization = "Emerging Talents Initiative at the University of Erlangen–Nürnberg"
+  organization_url = "https://www.fau.eu/research/outstanding-individual-research/emerging-talents-initiative/"
+  title = "Research Grant for Outstanding Projects and Talents"
+  url = ""
+  date_start = "2020-07-01"
+  date_end = "2020-09-30"
+  description = "€15K budget, preparing a grant proposal for individual research, innovative research, academic excellence"
 
 # [[item]]
 #  organization = "edX"
