@@ -83,7 +83,7 @@ I research open source governance, corporate open sourcing, user experience desi
 
 <!-- Currently finishing up some projects at the University of Erlangen–Nuremberg. -->
 
-I am looking for new opportunities in Munich and Berlin after October 2020. I am interested in R&D and software product management. I love software that helps improve individual lives.
+I am interested in R&D and software product management. I love software that helps improve individual lives.
 
 Since 2016, as a PhD student and then postdoc, I have worked closely with industry and:
 
