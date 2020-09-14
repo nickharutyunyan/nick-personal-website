@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nick Harutyunyan
+title: Armen Harutyunyan
 
 # Username (this should match the folder name)
 authors:
